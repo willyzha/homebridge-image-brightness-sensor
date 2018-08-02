@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-image-brightness-sensor",
+  "version": "0.0.1",
+  "description": "Using an image to calculate brightness.",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willyzha/homebridge-image-brightness-sensor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willyzha/homebridge-image-brightness-sensor/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "homepage": "https://github.com/willyzha/homebridge-image-brightness-sensor#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Willy",
+  "dependencies": {},
+  "devDependencies": {}
+}
